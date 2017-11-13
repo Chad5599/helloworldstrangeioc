@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/test-strange-ioc/test.unity
+- path: Assets/StrangeIoC/examples/Assets/scenes/myfirstproject/TestView.unity
   isLoaded: 1
   isActive: 1
